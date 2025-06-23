@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Red Shirt", "price": 499, "image": "https://via.placeholder.com/200x150/ff4c4c/fff" },
+  { "id": 2, "name": "Blue Jeans", "price": 799, "image": "https://via.placeholder.com/200x150/4c6eff/fff" },
+  { "id": 3, "name": "Sneakers", "price": 1200, "image": "https://via.placeholder.com/200x150/2ecc71/fff" }
+]
